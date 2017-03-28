@@ -25,5 +25,6 @@
    	1.from scrapy.http import Request 是回调函数用Request(url=...,callback=...)
    	2.xpath的//表示提取所有符合的节点
 
-
+----------
+如果本项目对你有用请给我一颗star，万分感谢。
 
